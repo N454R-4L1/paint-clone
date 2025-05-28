@@ -52,7 +52,7 @@ A **simple, responsive paint application** built with HTML, CSS, and JavaScript 
 
 ## 🌟 Screenshots
 
-*Add a screenshot or GIF here to showcase your app!*
+
 
 ---
 
