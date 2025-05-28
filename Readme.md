@@ -6,14 +6,14 @@ A **simple, responsive paint application** built with HTML, CSS, and JavaScript 
 
 ## ✨ Features
 
-✅ **Draw on canvas** using your mouse
-✅ **Change brush size** with a slider
-✅ **Pick custom brush colors**
-✅ **Eraser tool** to remove parts of your drawing
-✅ **Fill background color**
-✅ **Clear canvas** to start fresh
-✅ **Save and load canvas** with local storage
-✅ **Download your drawing** as a JPEG image
+- ✅ **Draw on canvas** using your mouse
+- ✅ **Change brush size** with a slider
+- ✅ **Pick custom brush colors**
+- ✅ **Eraser tool** to remove parts of your drawing
+- ✅ **Fill background color**
+- ✅ **Clear canvas** to start fresh
+- ✅ **Save and load canvas** with local storage
+- ✅ **Download your drawing** as a JPEG image
 
 ---
 
